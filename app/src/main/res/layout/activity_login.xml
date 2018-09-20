@@ -47,7 +47,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="96dp"
         android:alpha="0.75"
-        android:text="LOGIN"
+        android:text="SIGN IN"
         android:textColor="@color/colorAccent" />
 
 </RelativeLayout>
